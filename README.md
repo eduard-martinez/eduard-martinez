@@ -12,7 +12,7 @@ I’m an Economics PhD student at Universidad de los Andes. My primary interests
 <p style="color:black"><img alt="Qries" src="./figure/correo.png" width=30" height="30"> edfemagonza@gmail.com </img></p>
 
 <!-- Twitter -->
- <a href="https://twitter.com/emartigo" style="color:black;"> <img alt="Qries" src="./figure/twitter.jpg" width=30" height="30">  @emartigo</a> 
+  ![](/figure/twitter.jpg){widt=} [@emartigo]("https://twitter.com/emartigo)
 
 <!-- GitHub -->
 <a href="https://github.com/eduard-martinez" style="color:black;"> <img alt="Qries" src="./figure/github.png" width=30" height="30">  eduard-martinez</a>
