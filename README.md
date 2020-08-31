@@ -16,4 +16,4 @@ coffee_check = function(coffe_bowl){
 }
 ```
 
-![counter](https://[eduard-martinez].m.pipedream.net)
+![Github stats](https://github-readme-stats.vercel.app/api?username=eduard-martinez)
