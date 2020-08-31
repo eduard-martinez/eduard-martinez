@@ -5,6 +5,14 @@ I’m an Economics PhD student at Universidad de los Andes. My primary interests
 You can see my web page [here](https://eduard-martinez.github.io).
 
 
-
-
-
+```
+# Function coffee check 
+coffee_check = function(coffe_bowl){ 
+      if (is.full(coffe_bowl) == T){
+      print('Start to work')
+      }
+      else {
+      print('Refill with coffee sugar-free')
+      }
+}
+```
