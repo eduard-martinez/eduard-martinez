@@ -6,7 +6,7 @@ You can see my web page [here](https://eduard-martinez.github.io).
 
 
 
-### Function coffee check 
+### Function :coffee: :heavy_check_mark: 
 ```
 coffee_check = function(coffe_bowl){ 
                if (is.full(coffe_bowl) == T){
