@@ -14,7 +14,7 @@ coffee_check = function(coffe_cup){
                    print('Start to work')
                }
                else {
-                     print('Refill with coffee sugar-free')
+                     print('Refill with sugar-free coffee')
                }
 }
 ```
