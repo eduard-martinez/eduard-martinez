@@ -18,4 +18,4 @@ coffee_check = function(coffe_bowl){
 }
 ```
 
-![](figure/coffee.gif) 
+
