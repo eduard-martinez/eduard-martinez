@@ -1,4 +1,5 @@
 ![counter](https://enj7yxp0hgzidef.m.pipedream.net)
+<!-- https://www.geeksforgeeks.org/how-to-add-a-readme-to-your-github-profile/ -->
 
 # Hi! :wave:
 
@@ -8,8 +9,8 @@ You can see my web page [here](https://eduard-martinez.github.io).
 
 ### # Function :coffee: check 
 ```
-coffee_check = function(coffe_bowl){ 
-               if (is.full(coffe_bowl) == T){
+coffee_check = function(coffe_cup){ 
+               if (is.full(coffe_cup) == T){
                    print('Start to work')
                }
                else {
