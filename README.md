@@ -7,11 +7,9 @@ I’m an Economics PhD student at Universidad de los Andes. My primary interests
 
 You can see my web page [here](https://eduard-martinez.github.io).
 
-### R free course  
+## R free course  
 
-I have an intermediate R free course (In Spanish) available [here](https://github.com/taller-R). <img src="https://avatars0.githubusercontent.com/u/69440432?s=400&u=96b3e58c713578b563d5c3d3c259f34965ac8e33&v=4" align="right" width=80 height=80 alt="" />
-
-<br> <br/>
+ <img src="https://avatars0.githubusercontent.com/u/69440432?s=400&u=96b3e58c713578b563d5c3d3c259f34965ac8e33&v=4" align="left" width=80 height=80 alt="" /> I have an intermediate R free course (In Spanish) available [here](https://github.com/taller-R).
 
 ### # Function :coffee: check 
 ```
