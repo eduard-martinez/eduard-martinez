@@ -11,7 +11,7 @@ You can see my web page [here](https://eduard-martinez.github.io).
 
 I have an intermediate R free course (In Spanish) available [here](https://github.com/taller-R). <img src="https://avatars0.githubusercontent.com/u/69440432?s=400&u=96b3e58c713578b563d5c3d3c259f34965ac8e33&v=4" align="right" width=80 height=80 alt="" />
 
-
+<br> <br/>
 
 ### # Function :coffee: check 
 ```
