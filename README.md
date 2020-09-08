@@ -7,7 +7,7 @@ I’m an Economics PhD student at Universidad de los Andes. My primary interests
 
 You can see my web page [here](https://eduard-martinez.github.io).
 
-### # R free course  
+### # Free R course  
 
  <img src="https://avatars0.githubusercontent.com/u/69440432?s=400&u=96b3e58c713578b563d5c3d3c259f34965ac8e33&v=4" align="left" width=20 height=20 alt="" /> I have an intermediate R free course (In Spanish) available [here](https://github.com/taller-R).
 
