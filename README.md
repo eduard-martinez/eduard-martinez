@@ -3,7 +3,7 @@
 
 # Hi! :wave:
 
-I’m a PhD student in Economics at Universidad de los Andes. My research interests is manly focused on Crime Economics, Education and Labor Market. I’m also interested in Applied Econometrics, Big Data, and Machine Learning.
+I’m a PhD student in Economics at Universidad de los Andes. My research interests is manly focused on Crime Economics, Education and Labor Market. I’m also interested in Applied Econometrics, Big Data, and Machine Learning. 
 
 You can see my web page [here](https://eduard-martinez.github.io).
 
