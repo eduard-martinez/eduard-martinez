@@ -3,13 +3,13 @@
 
 # Hi! :wave:
 
-I’m a PhD student in Economics at Universidad de los Andes. My research interests is manly focused on Crime Economics, Education and Labor Market. I’m also interested in Applied Econometrics, Big Data, and Machine Learning. 
+I’m a professor at the Department of Economics at Universidad ICESI and Director of the Center for Research in Economics and Finance (CIENFI). My research focuses on development economics, big data, and machine learning, particularly in their applications to public policy.
 
 You can see my web page [here](https://eduard-martinez.github.io).
 
 ### # Free R course  
 
-I teach an intermediate-level R free course (In Spanish) available [here](https://github.com/taller-R-202301).
+I teach an intermediate-level R course (In Spanish) available [here](https://github.com/taller-R-202301).
 
 ### # Function :coffee: check 
 ```
